@@ -1,0 +1,53 @@
+@media screen and (max-width:375px){
+    main{
+        background-color: red;
+    }
+    img{
+        width: 50%;
+    }
+    body{
+        font-size: 200pt;
+    }
+}
+    
+header
+{
+    background-color:aquamarine;
+    color:black;
+    text-align: center;
+    padding: 50px;
+    font-faymily: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+    footer
+    {
+        color: brown;
+        font-family: fantasy;
+        text-align: center;
+        font-size: 2rem;
+    }
+
+        main
+        {
+            text-align: center;
+            font-family:'Courier New', Courier, monospace;
+            font-size: 40;
+        }
+            img
+            {
+             border-radius: 100%;
+             max-width: 100%;
+             position: absolute;
+             margin-top: 10%;
+             position: relative;
+             left: 30%;
+            }
+                body
+                {
+                    font-size: 20pt;
+                    max-height: 100px;
+                }
+                
+                    
+                   
